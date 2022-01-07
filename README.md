@@ -10,8 +10,8 @@ Build Generalized Groundings Graph &amp; calculate probability of human commands
 - cv2: 3.4.2.16
 
 ## How to run:
-	python g3.py [videoname] [command]
-	i.e. python g3.py test3.mp4 "Put those books on the chair"
+- python g3.py [videoname] [command]
+- i.e. python g3.py test3.mp4 "Put those books on the chair"
 
 
 ## Process
