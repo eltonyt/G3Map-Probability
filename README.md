@@ -2,6 +2,14 @@
 ## Purpose 
 Build Generalized Groundings Graph &amp; calculate probability of human commands based on groundings surrounded
 
+## Environment
+- Python: 3.7.4
+- Spacy: 3.2.0
+- anytree: 2.8.0
+- numpy: 1.20.3
+- cv2: 3.4.2.16
+
+
 ## Process
 ### G3 Map Draft
 Used Spacy and generate G3 Map based on dependencies within the input command. G3 Map will be in a tree structure
